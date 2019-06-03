@@ -9,8 +9,8 @@ body{
 	font-family:arial;
 	font-size:13px;
 	line-height:1.5em;
-	color:#C6F;
-	background-color:#C9C;
+	color:#63C;
+	background-color:#93C
 }
 
 .clearfix{
@@ -20,7 +20,7 @@ body{
 #container{
 	width:330px;
 	min-height:400px;
-	background:#F9F;
+	background:#C9C;
 	overflow:auto;
 	margin:60px auto;
 	-moz-border-radius:10px;
@@ -136,6 +136,7 @@ button#stop{
 	background: #0F0;
 	border-radius:5px;
 }
+
 
 
 	
